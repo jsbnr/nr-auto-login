@@ -7,3 +7,4 @@ Quick and dirty, this uses selenium to login to new relic.
 - then run: `node journeys/login.js`
 
 
+Important: the package.json needs cleaning up, it is full of unnecessary stuff
